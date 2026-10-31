@@ -1,0 +1,27 @@
+{
+  "content": {
+    "sectionListRenderer": {
+      "trackingParams": "CDYQui8iEwih6p-11uKXAxW2SMMAHSSxITg=",
+      "hack": true
+    }
+  },
+  "targetId": "PAsearch_preview",
+  "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN",
+  "onShowCommands": [
+    {
+      "clickTrackingParams": "CDUQ040EGAQiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+      "scrollToEngagementPanelCommand": {
+        "targetId": "PAsearch_preview"
+      }
+    }
+  ],
+  "identifier": {
+    "tag": "PAsearch_preview"
+  },
+  "loggingDirectives": {
+    "trackingParams": "CDUQ040EGAQiEwih6p-11uKXAxW2SMMAHSSxITg=",
+    "visibility": {
+      "types": "12"
+    }
+  }
+}

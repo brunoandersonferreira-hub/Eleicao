@@ -1,0 +1,2124 @@
+{
+  "panelIdentifier": "engagement-panel-structured-description",
+  "header": {
+    "engagementPanelTitleHeaderRenderer": {
+      "title": {
+        "simpleText": "Descrição"
+      },
+      "visibilityButton": {
+        "buttonRenderer": {
+          "icon": {
+            "iconType": "CLOSE"
+          },
+          "trackingParams": "CDQQ8FsiEwih6p-11uKXAxW2SMMAHSSxITg=",
+          "accessibilityData": {
+            "accessibilityData": {
+              "label": "Fechar"
+            }
+          },
+          "command": {
+            "clickTrackingParams": "CDQQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+            "commandExecutorCommand": {
+              "commands": [
+                {
+                  "clickTrackingParams": "CDQQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                  "changeEngagementPanelVisibilityAction": {
+                    "targetId": "engagement-panel-structured-description",
+                    "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN"
+                  }
+                },
+                {
+                  "clickTrackingParams": "CDQQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                  "updateToggleButtonStateCommand": {
+                    "toggled": false,
+                    "buttonId": "TOGGLE_BUTTON_ID_TYPE_STRUCTURED_DESCRIPTION"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "trackingParams": "CBQQ040EGAUiEwih6p-11uKXAxW2SMMAHSSxITg="
+    }
+  },
+  "content": {
+    "structuredDescriptionContentRenderer": {
+      "items": [
+        {
+          "videoDescriptionHeaderRenderer": {
+            "title": {
+              "runs": [
+                {
+                  "text": "TODOS OS INDÍCIOS DA **POSSÍVEL** FRAUDE ELEITORAL"
+                }
+              ]
+            },
+            "channel": {
+              "simpleText": "Lucas Banzoli"
+            },
+            "views": {
+              "simpleText": "16.655 visualizações"
+            },
+            "publishDate": {
+              "simpleText": "29 de out. de 2026"
+            },
+            "factoid": [
+              {
+                "factoidRenderer": {
+                  "value": {
+                    "simpleText": "1,4 mil"
+                  },
+                  "label": {
+                    "simpleText": "Marcações Gostei"
+                  },
+                  "accessibilityText": "1,4 mil marcações \"Gostei\"",
+                  "backgroundColorStyle": "BACKGROUND_COLOR_STYLE_COLOR_SAMPLED",
+                  "lightThemeColorPalette": {
+                    "baseBackground": 4294963952,
+                    "raisedBackground": 4294963952,
+                    "additiveBackground": 566842949,
+                    "textPrimary": 4281994502,
+                    "textSecondary": 4286918691,
+                    "invertedBackground": 4287572249,
+                    "overlayBackground": 3426356486
+                  },
+                  "darkThemeColorPalette": {
+                    "baseBackground": 4280091905,
+                    "raisedBackground": 4281994502,
+                    "additiveBackground": 734615109,
+                    "textPrimary": 4294763230,
+                    "textSecondary": 4293568670,
+                    "invertedBackground": 4293102204,
+                    "overlayBackground": 3426356486
+                  },
+                  "enableColorSampledText": true
+                }
+              },
+              {
+                "viewCountFactoidRenderer": {
+                  "viewCountEntityKey": "EgszVnVjSXJ5aXgtYyDCASgB",
+                  "factoid": {
+                    "factoidRenderer": {
+                      "value": {
+                        "simpleText": "16.655"
+                      },
+                      "label": {
+                        "simpleText": "Visualizações"
+                      },
+                      "accessibilityText": "16.655 visualizações",
+                      "backgroundColorStyle": "BACKGROUND_COLOR_STYLE_COLOR_SAMPLED",
+                      "lightThemeColorPalette": {
+                        "baseBackground": 4294963952,
+                        "raisedBackground": 4294963952,
+                        "additiveBackground": 566842949,
+                        "textPrimary": 4281994502,
+                        "textSecondary": 4286918691,
+                        "invertedBackground": 4287572249,
+                        "overlayBackground": 3426356486
+                      },
+                      "darkThemeColorPalette": {
+                        "baseBackground": 4280091905,
+                        "raisedBackground": 4281994502,
+                        "additiveBackground": 734615109,
+                        "textPrimary": 4294763230,
+                        "textSecondary": 4293568670,
+                        "invertedBackground": 4293102204,
+                        "overlayBackground": 3426356486
+                      },
+                      "enableColorSampledText": true
+                    }
+                  },
+                  "viewCountType": "VIEW_COUNT_FACTOID_TYPE_TOTAL_VIEWS"
+                }
+              },
+              {
+                "factoidRenderer": {
+                  "value": {
+                    "simpleText": "29 de out."
+                  },
+                  "label": {
+                    "simpleText": "2026"
+                  },
+                  "accessibilityText": "29 de out. de 2026",
+                  "backgroundColorStyle": "BACKGROUND_COLOR_STYLE_COLOR_SAMPLED",
+                  "lightThemeColorPalette": {
+                    "baseBackground": 4294963952,
+                    "raisedBackground": 4294963952,
+                    "additiveBackground": 566842949,
+                    "textPrimary": 4281994502,
+                    "textSecondary": 4286918691,
+                    "invertedBackground": 4287572249,
+                    "overlayBackground": 3426356486
+                  },
+                  "darkThemeColorPalette": {
+                    "baseBackground": 4280091905,
+                    "raisedBackground": 4281994502,
+                    "additiveBackground": 734615109,
+                    "textPrimary": 4294763230,
+                    "textSecondary": 4293568670,
+                    "invertedBackground": 4293102204,
+                    "overlayBackground": 3426356486
+                  },
+                  "position": "FACTOID_POSITION_LAST",
+                  "enableColorSampledText": true
+                }
+              }
+            ],
+            "channelNavigationEndpoint": {
+              "clickTrackingParams": "CBQQ040EGAUiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@LucasBanzoli",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCIWkZNgtKfDDqITGYICPKAA",
+                "canonicalBaseUrl": "/@LucasBanzoli"
+              }
+            },
+            "channelThumbnail": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_n4Ra-QPHwBhYYx6KaO-wJvtkn4PCf8K6w3jt0M7CD6Qw=s88-c-k-c0x00ffffff-no-rj"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "expandableVideoDescriptionBodyRenderer": {
+            "showMoreText": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Mostrar mais"
+                }
+              },
+              "simpleText": "...mais"
+            },
+            "showLessText": {
+              "simpleText": "Mostrar menos"
+            },
+            "attributedDescriptionBodyText": {
+              "content": "Contato da vendedora para quem estiver interessado no nosso curso de apologética: (67) 9234-2522.\n\nEu disse que não ia falar mais desse assunto, mas me encheram tanto a paciência que eu decidi fazer um novo vídeo muito mais aprofundado com todas as provas da fraude eleitoral (apesar de que a maioria nem vai assistir o vídeo e vai continuar xingando do mesmo jeito). No vídeo eu mostro as cidades onde Lula ganhou pegando todos os votos da terceira via, todos os votos dos que se abstiveram no primeiro turno, todos os votos de quem tinha votado branco ou nulo e, não satisfeito com isso, ainda parte dos votos do Flávio pra conta conseguir fechar – além dos estados mais bolsonaristas do Brasil que magicamente viraram petistas da noite pro dia sem que nenhuma pesquisa de opinião detectasse esse movimento. Aproveito ainda pra mostrar qual a probabilidade matemática que a IA dá para isso ter acontecido sem fraude, e se você quer saber qual é vem assistir o vídeo de hoje!\n\n#lula #lulapresidente #bolsonaro #flaviobolsonaro #fláviobolsonaro #flaviobolsonaro2026 #pt #lulaeleito #eleições2026 #eleições #eleicoes2026 #eleição \n\n✅ Meu grupo fechado no zap, minhas redes sociais, e-mail para contato e livros (disponíveis gratuitamente em pdf) no primeiro comentário fixado do vídeo.\n\n✅ Não se esqueça de curtir o vídeo, se inscrever no canal e ativar o sininho da notificação para ajudar o canal a crescer, e fique à vontade para comentar.\n\n⛔ Leia as regras para comentários no primeiro comentário fixado do vídeo para se certificar que seu comentário será aprovado.",
+              "commandRuns": [
+                {
+                  "startIndex": 978,
+                  "length": 5,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDMQ3NcEGEIiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lula",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUICgRsdWxhGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CDMQ3NcEGEIiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 984,
+                  "length": 15,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDIQ3NcEGEMiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lulapresidente",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUSCg5sdWxhcHJlc2lkZW50ZRgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CDIQ3NcEGEMiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1000,
+                  "length": 10,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDEQ3NcEGEQiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/bolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUNCglib2xzb25hcm8YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CDEQ3NcEGEQiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1011,
+                  "length": 16,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDAQ3NcEGEUiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/flaviobolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUTCg9mbGF2aW9ib2xzb25hcm8YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CDAQ3NcEGEUiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1028,
+                  "length": 16,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CC8Q3NcEGEYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/fl%C3%A1viobolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUUChBmbMOhdmlvYm9sc29uYXJvGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CC8Q3NcEGEYiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1045,
+                  "length": 20,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CC4Q3NcEGEciEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/flaviobolsonaro2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUXChNmbGF2aW9ib2xzb25hcm8yMDI2GAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CC4Q3NcEGEciEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1066,
+                  "length": 3,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CC0Q3NcEGEgiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/pt",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUGCgJwdBgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CC0Q3NcEGEgiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1070,
+                  "length": 11,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCwQ3NcEGEkiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lulaeleito",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUOCgpsdWxhZWxlaXRvGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCwQ3NcEGEkiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1082,
+                  "length": 13,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCsQ3NcEGEoiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%B5es2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUSCg5lbGVpw6fDtWVzMjAyNhgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCsQ3NcEGEoiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1096,
+                  "length": 9,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCoQ3NcEGEsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%B5es",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUOCgplbGVpw6fDtWVzGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCoQ3NcEGEsiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1106,
+                  "length": 13,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCkQ3NcEGEwiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/eleicoes2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUQCgxlbGVpY29lczIwMjYYAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCkQ3NcEGEwiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1120,
+                  "length": 8,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCgQ3NcEGE0iEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%A3o",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUNCgllbGVpw6fDo28YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCgQ3NcEGE0iEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                }
+              ],
+              "styleRuns": [
+                {
+                  "startIndex": 0,
+                  "length": 978,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 978,
+                  "length": 5,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 983,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 984,
+                  "length": 15,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 999,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1000,
+                  "length": 10,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1010,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1011,
+                  "length": 16,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1027,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1028,
+                  "length": 16,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1044,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1045,
+                  "length": 20,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1065,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1066,
+                  "length": 3,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1069,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1070,
+                  "length": 11,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1081,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1082,
+                  "length": 13,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1095,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1096,
+                  "length": 9,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1105,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1106,
+                  "length": 13,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1119,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1120,
+                  "length": 8,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1128,
+                  "length": 440,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                }
+              ]
+            },
+            "headerRuns": [
+              {
+                "startIndex": 0,
+                "length": 978,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 978,
+                "length": 5,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 983,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 984,
+                "length": 15,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 999,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1000,
+                "length": 10,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1010,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1011,
+                "length": 16,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1027,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1028,
+                "length": 16,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1044,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1045,
+                "length": 20,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1065,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1066,
+                "length": 3,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1069,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1070,
+                "length": 11,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1081,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1082,
+                "length": 13,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1095,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1096,
+                "length": 9,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1105,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1106,
+                "length": 13,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1119,
+                "length": 1,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1120,
+                "length": 8,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              },
+              {
+                "startIndex": 1128,
+                "length": 440,
+                "headerMapping": "ATTRIBUTED_STRING_HEADER_MAPPING_UNSPECIFIED"
+              }
+            ],
+            "backgroundColorStyle": "BACKGROUND_COLOR_STYLE_COLOR_SAMPLED",
+            "lightThemeColorPalette": {
+              "baseBackground": 4294963952,
+              "raisedBackground": 4294963952,
+              "additiveBackground": 566842949,
+              "textPrimary": 4281994502,
+              "textSecondary": 4286918691,
+              "invertedBackground": 4287572249,
+              "overlayBackground": 3426356486
+            },
+            "darkThemeColorPalette": {
+              "baseBackground": 4280091905,
+              "raisedBackground": 4281994502,
+              "additiveBackground": 734615109,
+              "textPrimary": 4294763230,
+              "textSecondary": 4293568670,
+              "invertedBackground": 4293102204,
+              "overlayBackground": 3426356486
+            },
+            "colorSampledDescriptionBodyText": {
+              "content": "Contato da vendedora para quem estiver interessado no nosso curso de apologética: (67) 9234-2522.\n\nEu disse que não ia falar mais desse assunto, mas me encheram tanto a paciência que eu decidi fazer um novo vídeo muito mais aprofundado com todas as provas da fraude eleitoral (apesar de que a maioria nem vai assistir o vídeo e vai continuar xingando do mesmo jeito). No vídeo eu mostro as cidades onde Lula ganhou pegando todos os votos da terceira via, todos os votos dos que se abstiveram no primeiro turno, todos os votos de quem tinha votado branco ou nulo e, não satisfeito com isso, ainda parte dos votos do Flávio pra conta conseguir fechar – além dos estados mais bolsonaristas do Brasil que magicamente viraram petistas da noite pro dia sem que nenhuma pesquisa de opinião detectasse esse movimento. Aproveito ainda pra mostrar qual a probabilidade matemática que a IA dá para isso ter acontecido sem fraude, e se você quer saber qual é vem assistir o vídeo de hoje!\n\n#lula #lulapresidente #bolsonaro #flaviobolsonaro #fláviobolsonaro #flaviobolsonaro2026 #pt #lulaeleito #eleições2026 #eleições #eleicoes2026 #eleição \n\n✅ Meu grupo fechado no zap, minhas redes sociais, e-mail para contato e livros (disponíveis gratuitamente em pdf) no primeiro comentário fixado do vídeo.\n\n✅ Não se esqueça de curtir o vídeo, se inscrever no canal e ativar o sininho da notificação para ajudar o canal a crescer, e fique à vontade para comentar.\n\n⛔ Leia as regras para comentários no primeiro comentário fixado do vídeo para se certificar que seu comentário será aprovado.",
+              "commandRuns": [
+                {
+                  "startIndex": 978,
+                  "length": 5,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCcQ3NcEGB0iEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lula",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUICgRsdWxhGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCcQ3NcEGB0iEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 984,
+                  "length": 15,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCYQ3NcEGB4iEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lulapresidente",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUSCg5sdWxhcHJlc2lkZW50ZRgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCYQ3NcEGB4iEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1000,
+                  "length": 10,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCUQ3NcEGB8iEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/bolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUNCglib2xzb25hcm8YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCUQ3NcEGB8iEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1011,
+                  "length": 16,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCQQ3NcEGCAiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/flaviobolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUTCg9mbGF2aW9ib2xzb25hcm8YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCQQ3NcEGCAiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1028,
+                  "length": 16,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCMQ3NcEGCEiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/fl%C3%A1viobolsonaro",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUUChBmbMOhdmlvYm9sc29uYXJvGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCMQ3NcEGCEiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1045,
+                  "length": 20,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCIQ3NcEGCIiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/flaviobolsonaro2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUXChNmbGF2aW9ib2xzb25hcm8yMDI2GAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCIQ3NcEGCIiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1066,
+                  "length": 3,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCEQ3NcEGCMiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/pt",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUGCgJwdBgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCEQ3NcEGCMiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1070,
+                  "length": 11,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CCAQ3NcEGCQiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/lulaeleito",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUOCgpsdWxhZWxlaXRvGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CCAQ3NcEGCQiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1082,
+                  "length": 13,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CB8Q3NcEGCUiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%B5es2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUSCg5lbGVpw6fDtWVzMjAyNhgB"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CB8Q3NcEGCUiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1096,
+                  "length": 9,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CB4Q3NcEGCYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%B5es",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUOCgplbGVpw6fDtWVzGAE%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CB4Q3NcEGCYiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1106,
+                  "length": 13,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CB0Q3NcEGCciEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/eleicoes2026",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUQCgxlbGVpY29lczIwMjYYAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CB0Q3NcEGCciEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                },
+                {
+                  "startIndex": 1120,
+                  "length": 8,
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CBwQ3NcEGCgiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/hashtag/elei%C3%A7%C3%A3o",
+                          "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                          "rootVe": 6827,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "FEhashtag",
+                        "params": "6gUNCgllbGVpw6fDo28YAQ%3D%3D"
+                      }
+                    }
+                  },
+                  "loggingDirectives": {
+                    "trackingParams": "CBwQ3NcEGCgiEwih6p-11uKXAxW2SMMAHSSxITg="
+                  }
+                }
+              ],
+              "styleRuns": [
+                {
+                  "startIndex": 0,
+                  "length": 978,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 978,
+                  "length": 5,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 983,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 984,
+                  "length": 15,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 999,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1000,
+                  "length": 10,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1010,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1011,
+                  "length": 16,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1027,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1028,
+                  "length": 16,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1044,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1045,
+                  "length": 20,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1065,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1066,
+                  "length": 3,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1069,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1070,
+                  "length": 11,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1081,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1082,
+                  "length": 13,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1095,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1096,
+                  "length": 9,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1105,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1106,
+                  "length": 13,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1119,
+                  "length": 1,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1120,
+                  "length": 8,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4282296063
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4278607828
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                },
+                {
+                  "startIndex": 1128,
+                  "length": 440,
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294763230
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4281994502
+                        }
+                      ]
+                    }
+                  },
+                  "fontFamilyName": "Roboto"
+                }
+              ]
+            },
+            "enableColorSampledDescriptionBodyText": true
+          }
+        },
+        {
+          "videoDescriptionTranscriptSectionRenderer": {
+            "sectionTitle": {
+              "runs": [
+                {
+                  "text": "Transcrição"
+                }
+              ]
+            },
+            "subHeaderText": {
+              "runs": [
+                {
+                  "text": "Acompanhe usando a transcrição."
+                }
+              ]
+            },
+            "primaryButton": {
+              "buttonRenderer": {
+                "style": "STYLE_SUGGESTIVE",
+                "size": "SIZE_DEFAULT",
+                "isDisabled": false,
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Mostrar transcrição"
+                    }
+                  ]
+                },
+                "trackingParams": "CBsQtooIIhMIoeqftdbilwMVtkjDAB0ksSE4",
+                "command": {
+                  "clickTrackingParams": "CBsQtooIIhMIoeqftdbilwMVtkjDAB0ksSE4ygEEIX2sbQ==",
+                  "commandExecutorCommand": {
+                    "commands": [
+                      {
+                        "clickTrackingParams": "CBsQtooIIhMIoeqftdbilwMVtkjDAB0ksSE4ygEEIX2sbQ==",
+                        "showEngagementPanelEndpoint": {
+                          "sourcePanelIdentifier": "video-description-ep-identifier",
+                          "identifier": {
+                            "surface": "ENGAGEMENT_PANEL_SURFACE_WATCH",
+                            "tag": "PAmodern_transcript_view"
+                          },
+                          "globalConfiguration": {
+                            "params": "qgkPCgszVnVjSXJ5aXgtYxgC"
+                          }
+                        }
+                      },
+                      {
+                        "clickTrackingParams": "CBsQtooIIhMIoeqftdbilwMVtkjDAB0ksSE4ygEEIX2sbQ==",
+                        "scrollToEngagementPanelCommand": {
+                          "targetId": "PAmodern_transcript_view"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            "trackingParams": "CBoQ0YQIGAIiEwih6p-11uKXAxW2SMMAHSSxITg="
+          }
+        },
+        {
+          "videoDescriptionInfocardsSectionRenderer": {
+            "sectionTitle": {
+              "simpleText": "Lucas Banzoli"
+            },
+            "creatorVideosButton": {
+              "buttonRenderer": {
+                "style": "STYLE_INACTIVE_OUTLINE",
+                "size": "SIZE_DEFAULT",
+                "isDisabled": false,
+                "text": {
+                  "simpleText": "Vídeos"
+                },
+                "icon": {
+                  "iconType": "MY_VIDEOS"
+                },
+                "trackingParams": "CBkQ8FsiEwih6p-11uKXAxW2SMMAHSSxITg=",
+                "command": {
+                  "clickTrackingParams": "CBkQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/channel/UCIWkZNgtKfDDqITGYICPKAA/videos",
+                      "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                      "rootVe": 3611,
+                      "apiUrl": "/youtubei/v1/browse"
+                    }
+                  },
+                  "browseEndpoint": {
+                    "browseId": "UCIWkZNgtKfDDqITGYICPKAA",
+                    "params": "EgZ2aWRlb3PyBgkKBzoAogECCAE%3D"
+                  }
+                }
+              }
+            },
+            "creatorAboutButton": {
+              "buttonRenderer": {
+                "style": "STYLE_INACTIVE_OUTLINE",
+                "size": "SIZE_DEFAULT",
+                "isDisabled": false,
+                "text": {
+                  "simpleText": "Sobre"
+                },
+                "icon": {
+                  "iconType": "ACCOUNT_BOX"
+                },
+                "trackingParams": "CBgQ8FsiEwih6p-11uKXAxW2SMMAHSSxITg=",
+                "command": {
+                  "clickTrackingParams": "CBgQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "/channel/UCIWkZNgtKfDDqITGYICPKAA/about",
+                      "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                      "rootVe": 3611,
+                      "apiUrl": "/youtubei/v1/browse"
+                    }
+                  },
+                  "browseEndpoint": {
+                    "browseId": "UCIWkZNgtKfDDqITGYICPKAA",
+                    "params": "EgVhYm91dPIGBgoCMgBKAA%3D%3D"
+                  }
+                }
+              }
+            },
+            "sectionSubtitle": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "106 mil inscritos"
+                }
+              },
+              "simpleText": "106 mil inscritos"
+            },
+            "channelAvatar": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_n4Ra-QPHwBhYYx6KaO-wJvtkn4PCf8K6w3jt0M7CD6Qw=s88-c-k-c0x00ffffff-no-rj"
+                }
+              ]
+            },
+            "channelEndpoint": {
+              "clickTrackingParams": "CBUQwjcYAyITCKHqn7XW4pcDFbZIwwAdJLEhOMoBBCF9rG0=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@LucasBanzoli",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCIWkZNgtKfDDqITGYICPKAA",
+                "canonicalBaseUrl": "/@LucasBanzoli"
+              }
+            },
+            "creatorCustomUrlButtons": [
+              {
+                "buttonViewModel": {
+                  "title": "Siga-me no Instagram",
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CBcQ8FsYACITCKHqn7XW4pcDFbZIwwAdJLEhOMoBBCF9rG0=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUlxb01IWTlnVkxxTklNdzVFNTBCLWdwcldDWXxBSTVJdTV2UzJqSWdtd0l5Q1JXYXh1MkhqQ01mdVRsSHNKWmlibHhRZzFhaHBZck1ZdV9mOS1sendzRFJIekw0RGtMaDRQUVNnOFF6ZUE0Smd3ams0bEhsNEpUa084ZGVZVm5W&q=https%3A%2F%2Fwww.instagram.com%2Flucasapologetica",
+                          "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                          "rootVe": 83769
+                        }
+                      },
+                      "urlEndpoint": {
+                        "url": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUlxb01IWTlnVkxxTklNdzVFNTBCLWdwcldDWXxBSTVJdTV2UzJqSWdtd0l5Q1JXYXh1MkhqQ01mdVRsSHNKWmlibHhRZzFhaHBZck1ZdV9mOS1sendzRFJIekw0RGtMaDRQUVNnOFF6ZUE0Smd3ams0bEhsNEpUa084ZGVZVm5W&q=https%3A%2F%2Fwww.instagram.com%2Flucasapologetica",
+                        "target": "TARGET_NEW_WINDOW"
+                      }
+                    }
+                  },
+                  "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+                  "trackingParams": "CBcQ8FsYACITCKHqn7XW4pcDFbZIwwAdJLEhOA==",
+                  "type": "BUTTON_VIEW_MODEL_TYPE_OUTLINE",
+                  "buttonSize": "BUTTON_VIEW_MODEL_SIZE_DEFAULT",
+                  "iconImage": {
+                    "url": "https://www.gstatic.com/youtube/img/watch/social_media/instagram_1x.png",
+                    "width": 16,
+                    "height": 16
+                  }
+                }
+              },
+              {
+                "buttonViewModel": {
+                  "title": "Siga-me no Facebook",
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CBYQ8FsYASITCKHqn7XW4pcDFbZIwwAdJLEhOMoBBCF9rG0=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUlxb01IYmNRcnJsQXExQmFCcVkySVNlNU5hdXxBSTVJdTVzOF9pQTE0R094NmZMb01XYzkzbXRlaE9Vc0NILVJrYUhXOWNzTUdXdkxyQW1QTlFHTGxfTjJiXzZJLVV2R1BZUEYybGRXRU83QXBoMUNINnZja3FkY0FLVlVsanRM&q=https%3A%2F%2Fwww.facebook.com%2Flucasbanzoli1",
+                          "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                          "rootVe": 83769
+                        }
+                      },
+                      "urlEndpoint": {
+                        "url": "https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUlxb01IYmNRcnJsQXExQmFCcVkySVNlNU5hdXxBSTVJdTVzOF9pQTE0R094NmZMb01XYzkzbXRlaE9Vc0NILVJrYUhXOWNzTUdXdkxyQW1QTlFHTGxfTjJiXzZJLVV2R1BZUEYybGRXRU83QXBoMUNINnZja3FkY0FLVlVsanRM&q=https%3A%2F%2Fwww.facebook.com%2Flucasbanzoli1",
+                        "target": "TARGET_NEW_WINDOW"
+                      }
+                    }
+                  },
+                  "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+                  "trackingParams": "CBYQ8FsYASITCKHqn7XW4pcDFbZIwwAdJLEhOA==",
+                  "type": "BUTTON_VIEW_MODEL_TYPE_OUTLINE",
+                  "buttonSize": "BUTTON_VIEW_MODEL_SIZE_DEFAULT",
+                  "iconImage": {
+                    "url": "https://www.gstatic.com/youtube/img/watch/social_media/facebook_1x.png",
+                    "width": 16,
+                    "height": 16
+                  }
+                }
+              }
+            ],
+            "trackingParams": "CBUQwjcYAyITCKHqn7XW4pcDFbZIwwAdJLEhOA=="
+          }
+        }
+      ]
+    }
+  },
+  "veType": 124975,
+  "targetId": "engagement-panel-structured-description",
+  "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN",
+  "loggingDirectives": {
+    "trackingParams": "CBQQ040EGAUiEwih6p-11uKXAxW2SMMAHSSxITg=",
+    "visibility": {
+      "types": "12"
+    }
+  }
+}

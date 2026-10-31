@@ -1,0 +1,15 @@
+{
+  "content": {
+    "adsEngagementPanelContentRenderer": {
+      "hack": true
+    }
+  },
+  "targetId": "engagement-panel-ads",
+  "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN",
+  "loggingDirectives": {
+    "trackingParams": "CDoQ040EGAIiEwih6p-11uKXAxW2SMMAHSSxITg=",
+    "visibility": {
+      "types": "12"
+    }
+  }
+}

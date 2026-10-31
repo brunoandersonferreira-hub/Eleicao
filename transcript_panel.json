@@ -1,0 +1,115 @@
+{
+  "panelIdentifier": "engagement-panel-searchable-transcript",
+  "header": {
+    "engagementPanelTitleHeaderRenderer": {
+      "title": {
+        "runs": [
+          {
+            "text": "Transcrição"
+          }
+        ]
+      },
+      "menu": {
+        "menuRenderer": {
+          "items": [
+            {
+              "menuServiceItemRenderer": {
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Mostrar ou ocultar data e hora"
+                    }
+                  ]
+                },
+                "serviceEndpoint": {
+                  "clickTrackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+                        "signalAction": {
+                          "signal": "TOGGLE_TRANSCRIPT_TIMESTAMPS"
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITg="
+              }
+            }
+          ],
+          "trackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITg=",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Mais ações"
+            }
+          }
+        }
+      },
+      "visibilityButton": {
+        "buttonRenderer": {
+          "icon": {
+            "iconType": "CLOSE"
+          },
+          "accessibility": {
+            "label": "Fechar transcrição"
+          },
+          "trackingParams": "CBMQ8FsiEwih6p-11uKXAxW2SMMAHSSxITg=",
+          "accessibilityData": {
+            "accessibilityData": {
+              "label": "Fechar transcrição"
+            }
+          },
+          "command": {
+            "clickTrackingParams": "CBMQ8FsiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+            "changeEngagementPanelVisibilityAction": {
+              "targetId": "engagement-panel-searchable-transcript",
+              "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN"
+            }
+          }
+        }
+      },
+      "trackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITg="
+    }
+  },
+  "content": {
+    "continuationItemRenderer": {
+      "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+      "continuationEndpoint": {
+        "clickTrackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+        "commandMetadata": {
+          "webCommandMetadata": {
+            "sendPost": true,
+            "apiUrl": "/youtubei/v1/get_transcript"
+          }
+        },
+        "getTranscriptEndpoint": {
+          "params": "CgszVnVjSXJ5aXgtYxISQ2dOaGMzSVNBbkIwR2dBJTNEGAEqM2VuZ2FnZW1lbnQtcGFuZWwtc2VhcmNoYWJsZS10cmFuc2NyaXB0LXNlYXJjaC1wYW5lbDABOAFAAQ%3D%3D"
+        }
+      }
+    }
+  },
+  "veType": 126250,
+  "targetId": "engagement-panel-searchable-transcript",
+  "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN",
+  "onShowCommands": [
+    {
+      "clickTrackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITjKAQQhfaxt",
+      "scrollToEngagementPanelCommand": {
+        "targetId": "engagement-panel-searchable-transcript"
+      }
+    }
+  ],
+  "loggingDirectives": {
+    "trackingParams": "CBIQ040EGAYiEwih6p-11uKXAxW2SMMAHSSxITg=",
+    "visibility": {
+      "types": "12"
+    }
+  }
+}
